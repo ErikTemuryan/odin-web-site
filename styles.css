@@ -1,0 +1,160 @@
+body {
+    background-color: #FFFFFF;
+    padding: 0;
+    margin: 0;
+}
+
+.conteiner {
+    display: flex;
+    flex-direction: row;
+}
+
+.logo-image {
+    background-color: #FF9C00;
+    padding-left: 30px;
+    float: left;
+}
+
+.logo-text {
+    background-color: #FF9C00;
+    font-family: 'Bradley Hand';
+    padding: 12px;
+    float: left;
+}
+
+.header-links {
+    background-color: #FF9C00;
+    text-align: right;
+    padding-top: 34px;
+    padding-bottom: 70px;
+    padding-right: 50px;
+    font-size: 30px;
+}
+
+.header-link-1 a {
+    text-decoration: none;
+    text-align: right;
+    padding-left: 30px;
+    float: right;
+    color: black;
+}
+
+.header-link-2 a {
+    text-decoration: none;
+    text-align: right;
+    padding-left: 30px;
+    float: right;
+    color: black;
+}
+
+
+.header-link-3 a {
+    text-decoration: none;
+    text-align: right;
+    padding-left: 30px;
+    float: right;
+    color: black;
+}
+
+.canvas {
+    color: #FFF0F5;
+    background-color: #1F2937;
+    padding-left: 200px;
+    padding-top: 100px;
+}
+
+.main-text {
+    display: flex;
+    background-color: #1F2937;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    float: left;
+}
+
+.subtext {
+    display: flex;
+    background-color: #1F2937;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    padding: 90px;
+    padding-bottom: 200px;
+}
+
+.image-horses {
+    flex-basis: 400px;
+    display: flex;
+    flex-direction: column;
+    background-color: #1F2937;
+    padding-right: 120px;
+    padding-bottom: 20px;
+    float: right;
+}
+
+.header {
+    font-size: 20px;
+    text-align: center;
+}
+
+.black-horse img { 
+    display: flex;
+    border: 5px solid #FFD700;
+    margin-left: 100px;
+    margin-right: 150px;
+    float: left;
+}
+
+.black-horse {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.white-horse {
+    display: flex;
+    border: 5px solid #FFD700;
+    margin-right: 150px;
+    float: left;
+}
+
+.brown-horse {
+    display: flex;
+    border: 5px solid #FFD700;
+    margin-right: 150px;
+    float: left;
+}
+
+.light-brown-horse {
+    display: flex;
+    border: 5px solid #FFD700;
+    margin-right: 80px;
+    float: left;
+}
+
+/*.black-horse-text {
+    display: flex;
+    margin-top: 10px;
+    margin-left: 150px;
+    float: left;
+}
+
+.white-horse-text {
+    display: flex;
+    margin-top: 10px;
+    margin-left: 350px;
+    float: left;
+}
+
+.brown-horse-text {
+    display: flex;
+    margin-top: 10px;
+    margin-left: 410px;
+    float: left;
+}
+
+.light-brown-horse-text {
+    display: flex;
+    margin-top: 10px;
+    margin-right: 180px;
+    float: right;
+}*/
